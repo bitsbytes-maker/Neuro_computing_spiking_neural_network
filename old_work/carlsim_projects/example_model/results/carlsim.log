@@ -1,0 +1,24 @@
+[INFO carlsim/kernel/src/snn_manager.cpp:2019] *********************************************************************************
+[INFO carlsim/kernel/src/snn_manager.cpp:2021] ********************      Welcome to CARLsim 4.0      ***************************
+[INFO carlsim/kernel/src/snn_manager.cpp:2022] *********************************************************************************
+
+[INFO carlsim/kernel/src/snn_manager.cpp:2024] ***************************** Configuring Network ********************************
+[INFO carlsim/kernel/src/snn_manager.cpp:2026] Starting CARLsim simulation "invert" in USER mode
+[INFO carlsim/kernel/src/snn_manager.cpp:2027] Random number seed: 1594393830
+[DEBUG carlsim/kernel/src/snn_manager.cpp:2033] Current local time and date: Fri Jul 10 11:10:30 2020
+
+[DEBUG carlsim/kernel/src/snn_manager.cpp:165] CONNECT SETUP: connId=0, mulFast=1.000000, mulSlow=1.000000
+[DEBUG carlsim/kernel/src/snn_manager.cpp:165] CONNECT SETUP: connId=1, mulFast=1.000000, mulSlow=1.000000
+[DEBUG carlsim/kernel/src/snn_manager.cpp:165] CONNECT SETUP: connId=2, mulFast=1.000000, mulSlow=1.000000
+[INFO carlsim/kernel/src/snn_manager.cpp:455] Running CUBA mode (all synaptic conductances disabled)
+[DEBUG carlsim/kernel/src/snn_manager.cpp:3472] Beginning compilation of the network....
+[DEBUG carlsim/kernel/src/snn_manager.cpp:2862] Allocation for 1(ext), St=0, End=8
+[DEBUG carlsim/kernel/src/snn_manager.cpp:2862] Allocation for 2(output), St=9, End=17
+[DEBUG carlsim/kernel/src/snn_manager.cpp:2862] Allocation for 0(input), St=18, End=26
+[INFO carlsim/kernel/src/snn_manager.cpp:3493] 
+
+[INFO carlsim/kernel/src/snn_manager.cpp:3494] ************************** Global Network Configuration *******************************
+[INFO carlsim/kernel/src/snn_manager.cpp:3495] The number of neurons in the network (numN) = 27
+[INFO carlsim/kernel/src/snn_manager.cpp:3496] The number of regular neurons in the network (numNReg:numNExcReg:numNInhReg) = 18:18:0
+[INFO carlsim/kernel/src/snn_manager.cpp:3497] The number of poisson neurons in the network (numNPois:numNExcPois:numInhPois) = 9:9:0
+[INFO carlsim/kernel/src/snn_manager.cpp:3498] The maximum axonal delay in the network (maxDelay) = 1
